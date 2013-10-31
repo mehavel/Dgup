@@ -1,0 +1,14 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/text1"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:gravity="center_vertical"
+android:minHeight="?android:attr/listPreferredItemHeightSmall"
+android:paddingLeft="16dp"
+android:paddingRight="16dp"
+android:text="Loading Content ..."
+android:textAppearance="?android:attr/textAppearanceListItem"
+android:textColor="#000000"
+android:background="@drawable/shape" />
+
+<!-- android:background="?android:attr/activatedBackgroundIndicator" -->
